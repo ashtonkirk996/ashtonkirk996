@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently studying Software Engineering at the University of Auckland<br>I'm currently learning database systems, operating systems and computer graphics and image processing<br>In my spare time I am learning a variety of different libraries and languages <br>Recently I have worked on some projects such as a facial recognition system using OpenCV and a machine learning<br>stock prediction algorithm
+I'm currently studying Software Engineering at the University of Auckland<br>I'm currently learning database systems, operating systems and computer graphics and image processing<br>In my spare time I am learning a variety of different libraries and languages <br>Recently I have worked on some projects such as a facial recognition system using OpenCV and a machine learning stock prediction algorithm <br>
 
 
 ## 🌐 Socials:
